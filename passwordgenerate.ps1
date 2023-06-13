@@ -44,10 +44,3 @@ function GeneratePassword {
 
 # USAGE FUNCTION
 GeneratePassword -IncludeSymbols -IncludeNumbers
-GeneratePassword -IncludeSymbols -IncludeNumbers
-GeneratePassword -IncludeSymbols -IncludeNumbers
-GeneratePassword -IncludeSymbols -IncludeNumbers
-GeneratePassword -IncludeSymbols -IncludeNumbers
-GeneratePassword -IncludeSymbols -IncludeNumbers
-GeneratePassword -IncludeSymbols -IncludeNumbers
-GeneratePassword -IncludeSymbols -IncludeNumbers
