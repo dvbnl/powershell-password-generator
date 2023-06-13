@@ -1,0 +1,10 @@
+Kat
+Hond
+Vogel
+Leeuw
+Tijger
+Olifant
+Aap
+Koe
+Schaap
+Paard
